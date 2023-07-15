@@ -10,3 +10,4 @@
 - [Technical Interviewing at Source Allies](https://www.sourceallies.com/2023/05/interviewing/) - providing candidates visibility into what they can expect when interviewing.
 - [Blind Refactoring](https://blind-refactoring.netlify.app/) - a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk) around changing code without fully understanding it.
 - [Golang Concurrency Basics](https://www.linkedin.com/posts/source-allies_go-coderlife-technicallyspeaking-activity-7072603389758484480-b2vX) - a video for our company's _Technically Speaking_ series.
+- [TDD with AI](https://www.linkedin.com/posts/source-allies_technicallyspeaking-ai-tdd-activity-7085287904276545536-Q-0m) - a video for our company's _Technically Speaking_ series.
