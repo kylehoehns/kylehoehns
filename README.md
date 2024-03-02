@@ -17,4 +17,4 @@
 - [Java Virtual Threads](https://youtu.be/9gDQxGqKB7c?si=2V_l0QNPNQHNzeFo) - introducing Virtual Threads and why they benefit many JVM developers working on I/O-bound applications.
 
 #### User Groups
-- [Leveraging LLMs with Spring AI | CIJUG](https://www.meetup.com/central-iowa-java-users-group/events/298188550/) - spoke on how to interact with LLMs using Spring AI. Repository can be found [here](https://github.com/kylehoehns/spring-ai-demo).
+- [Leveraging LLMs with Spring AI | CIJUG](https://www.meetup.com/central-iowa-java-users-group/events/298188550/) - spoke on how to interact with LLMs using Spring AI. Repository can be found [here](https://github.com/kylehoehns/spring-ai-demo). Recording can be found [on YouTube](https://youtu.be/UEr3bmbYdiY?si=uFDELUr-3EwR1wZP).
