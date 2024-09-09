@@ -15,6 +15,8 @@
 - [Golang Concurrency Basics](https://www.linkedin.com/posts/source-allies_go-coderlife-technicallyspeaking-activity-7072603389758484480-b2vX) - an introduction on how to write highly scalable applications in Golang.
 - [TDD with AI](https://www.linkedin.com/posts/source-allies_technicallyspeaking-ai-tdd-activity-7085287904276545536-Q-0m) - showing the power of pair programming with generative AI.
 - [Java Virtual Threads](https://youtu.be/9gDQxGqKB7c?si=2V_l0QNPNQHNzeFo) - introducing Virtual Threads and why they benefit many JVM developers working on I/O-bound applications.
+- [Spring HTTP Interfaces](https://www.youtube.com/watch?v=USHkXJ7CXPw) - showing how Spring provides easy ways to interact with other services by simply defining an interface.
 
 #### User Groups
 - [Leveraging LLMs with Spring AI | CIJUG](https://www.meetup.com/central-iowa-java-users-group/events/298188550/) - spoke on how to interact with LLMs using Spring AI. Repository can be found [here](https://github.com/kylehoehns/spring-ai-demo). Recording can be found [on YouTube](https://youtu.be/UEr3bmbYdiY?si=uFDELUr-3EwR1wZP).
+- [The Road to Mordor: An Engineer’s Guide to Delivering Complex Features | Des Moines Web Geeks](https://www.meetup.com/des-moines-web-geeks/events/301610704) - spoke on how delivering software to production can be very similar to the Lord of the Rings trilogy. 
