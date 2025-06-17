@@ -22,4 +22,5 @@
 
 #### User Groups
 - [Leveraging LLMs with Spring AI | CIJUG](https://www.meetup.com/central-iowa-java-users-group/events/298188550/) - spoke on how to interact with LLMs using Spring AI. Repository can be found [here](https://github.com/kylehoehns/spring-ai-demo).
-- [The Road to Mordor: An Engineer’s Guide to Delivering Complex Features | Des Moines Web Geeks](https://www.meetup.com/des-moines-web-geeks/events/301610704) - spoke on how delivering software to production can be very similar to the Lord of the Rings trilogy. 
+- [The Road to Mordor: An Engineer’s Guide to Delivering Complex Features | Des Moines Web Geeks](https://www.meetup.com/des-moines-web-geeks/events/301610704) - spoke on how delivering software to production can be very similar to the Lord of the Rings trilogy.
+- [DevOps at Scale: Achieving a Zero Downtime Migration for 80 Million Daily Requests](https://www.youtube.com/watch?v=_l2GROhxFs0) - spoke about a project where we successfully migrated a heavily used API from OpenSearch to Elasticsearch... with zero downtime.
