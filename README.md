@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 - 🔭 I work at [Source Allies](https://www.sourceallies.com/)
-- 🌱 I’m currently learning more about [Go](https://go.dev/), [Elasticsearch](https://www.elastic.co/) and all things [AWS](https://aws.amazon.com/).
+- 🌱 I’m currently learning more about [Go](https://go.dev/), [Embabel](https://github.com/embabel/embabel-agent) and all things [AWS](https://aws.amazon.com/).
 - 📫 How to reach me: I'm [on X (@kylehoehns)](http://twitter.com/kylehoehns). Or [shoot me an e-mail](mailto:kyhoehns@gmail.com).
 - ⚡ Fun fact: I like to run! Feel free to [follow me on Strava](https://www.strava.com/athletes/14172547).
 
 ### Some things I've presented 📢
 
+Feel free to see all my presentation information on [Sessionize](https://sessionize.com/kyle-hoehns).
+
 #### Blog Posts
 - [Brag A Bit](https://www.sourceallies.com/2021/08/brag-a-bit/) - sharing an easy-to-use concept to easily keep track of daily successes.
 - [Technical Interviewing at Source Allies](https://www.sourceallies.com/2023/05/interviewing/) - providing candidates visibility into what they can expect when interviewing.
 - [The Road to Mordor](https://www.sourceallies.com/2024/09/the-road-to-mordor/) - showing how delivering complex software features is similar to *The Lord of the Rings*
+- [Stop debating. Run the experiment.](https://www.sourceallies.com/2025/08/run-the-experiment/) - advocating for teams to run quick experiments and move faster with data.
 
 #### Technical Videos
 - [Golang Concurrency Basics](https://www.linkedin.com/posts/source-allies_go-coderlife-technicallyspeaking-activity-7072603389758484480-b2vX) - an introduction on how to write highly scalable applications in Golang.
@@ -23,4 +26,4 @@
 #### User Groups
 - [Leveraging LLMs with Spring AI | CIJUG](https://www.meetup.com/central-iowa-java-users-group/events/298188550/) - spoke on how to interact with LLMs using Spring AI. Repository can be found [here](https://github.com/kylehoehns/spring-ai-demo).
 - [The Road to Mordor: An Engineer’s Guide to Delivering Complex Features | Des Moines Web Geeks](https://www.meetup.com/des-moines-web-geeks/events/301610704) - spoke on how delivering software to production can be very similar to the Lord of the Rings trilogy.
-- [DevOps at Scale: Achieving a Zero Downtime Migration for 80 Million Daily Requests](https://www.youtube.com/watch?v=_l2GROhxFs0) - spoke about a project where we successfully migrated a heavily used API from OpenSearch to Elasticsearch... with zero downtime.
+- [DevOps at Scale: Achieving a Zero Downtime Migration for 80 Million Daily Requests](https://www.youtube.com/watch?v=_l2GROhxFs0) - spoke about a project where we successfully migrated a heavily used API from OpenSearch to Elasticsearch... with zero downtime. This was presented at [DevOpsDays Des Moines](https://devopsdays.org/events/2025-des-moines/welcome/) and [Heartland Developers Conference](https://hdc.aiminstitute.org/).
